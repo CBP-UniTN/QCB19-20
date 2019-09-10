@@ -33,8 +33,8 @@ echo "This is a bash script."
 
 # List of tutorials and sources
 
-1. [Visualisation](/pages/QCB/tutorial1)
-2. [Tria sunt genera fileorum](/pages/QCB/tutorial2)
+1. [Visualisation](/QCB19-20/pages/QCB/tutorial1)
+2. [Tria sunt genera fileorum](pages/QCB/tutorial2)
 3. [Io NAMD e tu](/pages/QCB/tutorial3) (you should read _Io nammedi e tu_)
 4. [NAMD@HPC](/pages/QCB/tutorial4)
 5. [Membrane Protein (part I)](/pages/QCB/tutorial5)
